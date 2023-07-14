@@ -1,0 +1,35 @@
+img{
+    margin:0 15% 0 15%;
+    height:600px;
+    float:left;
+}
+p{
+    float:left;
+    margin:0 20px 0 0;
+    box-shadow: 3px 3px 5px yellow;
+    height:350px;
+    width:550px;
+    font-size: 25px;
+    color: #061f76;
+    border-radius: 10px;
+}
+.about-content{
+    padding:30px 0 0 0;
+}
+h2{
+    font-size: 35px;
+    color:darkgoldenrod;
+}
+.topnav{
+    margin:2% 5% 0 60%;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+a{
+    padding:7px;
+}
+a:link{
+    color:#FB0000;
+    background-color: transparent;
+    text-decoration: none;
+}

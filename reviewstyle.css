@@ -1,0 +1,37 @@
+img{
+    float: right;
+    height:400px;
+    width:500px;
+}
+body{
+    margin:10% 10% 0 20%;
+}
+h1{
+    font-size: 65px;
+}
+input{
+    width:40%;
+}
+textarea{
+    width:40%;
+}
+button{
+    border-radius: 6px;
+    margin:5% 40% 0 40%;
+    font-size: 25px;
+    background-color:orangered;
+    color: white;
+}
+.topnav{
+    margin:0 5% 0 55%;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+a{
+    padding:7px;
+}
+a:link{
+    color:#FB0000;
+    background-color: transparent;
+    text-decoration: none;
+}
